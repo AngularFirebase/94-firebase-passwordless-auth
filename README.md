@@ -1,10 +1,10 @@
-# Episode XY
+# Episode 94 - Passwordless Auth
 
 Watch the [screencast](https://angularfirebase.com/lessons)
 
 ## Usage
 
 - `git clone`
-- create the `src/enviornments/environment.ts` file and add your firebase config to it
+-  add your Firebase project to `src/enviornments/environment.ts`
 - `npm install`
 - `ng serve`
